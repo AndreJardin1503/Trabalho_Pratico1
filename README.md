@@ -2,6 +2,10 @@ Hélder Rodrigues, nº25956
 Sara Capela, nº25973
 André Jardin, nº25978
 
+
+//recomendamos em abrir em modo code para ter espaços e o texto de forma organizada
+
+
 Análise do Jogo
 
 Sobre o Jogo
